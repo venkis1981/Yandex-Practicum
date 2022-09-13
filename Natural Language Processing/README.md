@@ -10,4 +10,4 @@
 Данные находятся в файле `toxic_comments.csv`. Столбец *text* в нём содержит текст комментария, а *toxic* — целевой признак.
 
 
-** nltk_stopwords, TfidfVectorizer, CountVectorizer, TfidfTransformer, LinearSVC, WordNetLemmatizer **
+**nltk_stopwords, TfidfVectorizer, CountVectorizer, TfidfTransformer, LinearSVC, WordNetLemmatizer**
