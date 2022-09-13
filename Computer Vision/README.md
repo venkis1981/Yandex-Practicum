@@ -25,4 +25,4 @@
 
 
 
-**ImageDataGenerator, Resnet50, GlobalAveragePooling2D, Adam** 
+**ImageDataGenerator, Resnet, GlobalAveragePooling2D, Adam** 
