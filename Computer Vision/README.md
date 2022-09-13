@@ -23,4 +23,6 @@
 
 Для оптимизации модели использовался алгоритм Adam с шагом 0.0001, в качестве метрики выбрана MAE.
 
+
+
 **ImageDataGenerator, Resnet50, GlobalAveragePooling2D, Adam** 
