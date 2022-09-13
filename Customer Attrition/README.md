@@ -20,4 +20,4 @@
 
 Необходимо подобрать модель, обеспечивающую лучшую оценку качества прогноза оттока клиентов.
 
-В качестве моделей использовались LogisticRegression, RandomForestClassifier, DecisionTreeClassifier, CatBoostClassifier, LGBMClassifier, XGBClassifier.
+**LogisticRegression, RandomForestClassifier, DecisionTreeClassifier, CatBoostClassifier, LGBMClassifier, XGBClassifier**
